@@ -43,7 +43,9 @@ https://github.com/FelipeDamicoCapitao/Trabalho_em_grupo
 
 chat_Rio_Carnaval_2024.py
 
+
 Autores:
+
 
 Felipe Damico Capitão - capitao.damico@gmail.com
 Priscila Gusso Cruz - prigussocruz@gmail.com
