@@ -33,9 +33,6 @@ Pyhton instalado
 IDE instalado
 Github instalado
 
-1- Clonar Repositório no IDE via Github:
-https://github.com/FelipeDamicoCapitao/Trabalho_em_grupo
-
 2 - executar o projeto
 chat_Rio_Carnaval_2024.py
 Autores:
